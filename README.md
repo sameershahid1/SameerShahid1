@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development and Algorithm analysis**
 
-- 📫 How to reach me **goku.hulk234@gmail.com**
+- 📫 How to reach me **sameer.shahid3333@gmail.com**
 
 - ⚡ Fun fact **I like to play games in my free time.**
 
