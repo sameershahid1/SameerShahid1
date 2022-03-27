@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameershahid1&label=Profile%20views&color=0e75b6&style=flat" alt="sameershahid1" /> </p>
 
-- 🔭 I’m currently working on **Data Base with C++ and Python**
+- 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **Web Development and Algorithm analysis**
 
