@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sameer Shahid</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer from Pakistan, who likes to Explore and learn new things in my free time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameershahid1&label=Profile%20views&color=0e75b6&style=flat" alt="sameershahid1" /> </p>
 
-- 🔭 I’m currently working on **C++**
-
-- 🌱 I’m currently learning **Web Development and Algorithm analysis**
+- 🌱 I’m currently learning **React.js and Algorithm Analysis**
 
 - 📫 How to reach me **sameer.shahid3333@gmail.com**
 
-- ⚡ Fun fact **I like to play games in my free time.**
+- ⚡ Fun fact **I like to play video games in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
