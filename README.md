@@ -3,7 +3,7 @@
 <h3 align="center">My Motto is never to give up in any thing in my life and give the same advice to other's also. And i consider my failure as a teacher.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameershahid1&label=Profile%20views&color=0e75b6&style=flat" alt="sameershahid1" /> </p>
 
-- 🌱 I’m currently learning **React.js and Algorithm Analysis** and doing BSCS from **University of central punjab**, right know i am in 4th semester.
+- 🌱 I’m currently learning **React.js and Data Stucture and Algorithm** and doing BSCS from **University of central punjab**, right know i am in 4th semester.
 
 - 📫 How to reach me **sameer.shahid3333@gmail.com**
 
