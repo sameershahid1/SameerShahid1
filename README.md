@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Web-Development** and doing BSCS from **University of central punjab**, right know i am in 4th semester.
 
 - 📫 How to reach me **sameer.shahid3333@gmail.com**
-- 📫 How to reach me **goku.hulk234@gmail.com**
 
 - ⚡ Fun fact **I like to play video games in my free time.**
 
