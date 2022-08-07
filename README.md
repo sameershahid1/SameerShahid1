@@ -3,11 +3,11 @@
 <h3 align="center">My Motto is never to give up in any thing in my life and give the same advice to other's also. And i consider my failure as a teacher.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameershahid1&label=Profile%20views&color=0e75b6&style=flat" alt="sameershahid1" /> </p>
 
-- 🌱 I’m currently learning **Web-Development** and doing BSCS from **University of central punjab**, right know i am in 4th semester.
+- 🌱 I’m currently learning **React.js, BootStrap** and doing BSCS from **University of central punjab**,I recently cleared my 4th semester and looking for internship for Front-end-Web Development.
 
 - 📫 How to reach me **sameer.shahid3333@gmail.com**
 
-- ⚡ Fun fact **I like to play video games in my free time.**
+- ⚡ Fun fact **I like to learn new things in my free time and likes to play Video Games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
