@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sameer Shahid</h1>
-<h3 align="center">I am a Computer Science Student from Pakistan, who likes to Explore and learn new things in my free time</h3>
+<h3 align="center">I am a Computer Science Student from Pakistan.Currently, currently I am doing BSCS from the university of Central punjab and in 5th semester.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameershahid1&label=Profile%20views&color=0e75b6&style=flat" alt="sameershahid1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameershahid1" alt="sameershahid1" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js and express.js**
+- 🌱 I’m currently learning **back-end-development of Web**
 
-- 💬 Ask me about **C++, python and reactjs**
+- 💬 Ask me about **C++, python, JavaScript and reactjs**
 
 - 📫 How to reach me **sameer.shahid3333@gmail.com**
 
