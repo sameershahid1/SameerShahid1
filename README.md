@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Shahid</h1>
-<h3 align="center">I am a React Developer from Pakistan. Currently I am doing BSCS from the university of Central punjab, right now, I am in 5th semester.</h3>
+<h3 align="center">I am a Full stack Developer from Pakistan. Currently I am doing BSCS from the university of Central punjab.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameershahid1&label=Profile%20views&color=0e75b6&style=flat" alt="sameershahid1" /> </p>
 
