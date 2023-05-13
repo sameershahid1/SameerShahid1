@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameershahid1" alt="sameershahid1" /></a> </p>
 
-- 🌱 I’m currently learning **back-end-development of Web**
+- 🌱 I’m currently Polishing my **Web-development Skills**
 
-- 💬 Ask me about **C++, python, JavaScript and reactjs**
+- 💬 Ask me about **C++, python, JavaScript,reactjs, laravel and vue.js**
 
 - 📫 How to reach me **sameer.shahid3333@gmail.com**
 
