@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sameer Shahid</h1>
-<h3 align="center">I am a Full stack Developer from Pakistan. Currently I am doing BSCS from the university of Central punjab.</h3>
+<h3 align="center">I am a Full stack Developer from Pakistan. Currently, I am doing BSCS at the University of Central Punjab.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameershahid1&label=Profile%20views&color=0e75b6&style=flat" alt="sameershahid1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameershahid1" alt="sameershahid1" /></a> </p>
 
-- 🌱 I’m currently Polishing my **Web-development Skills**
+- 🌱 I’m currently Polishing my **Web-development Skills to next level**
 
-- 💬 Ask me about **C++, python, JavaScript,reactjs, laravel and vue.js**
+- 💬 Ask me about **C++, python, MERN, Next.js-14, Mysql, Mongodb , Laravel,  and vue.js**
 
 - 📫 How to reach me **sameer.shahid3333@gmail.com**
 
