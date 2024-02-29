@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameershahid1" alt="sameershahid1" /></a> </p>
 
-- 🌱 I’m currently Polishing my **Web-development Skills to the next level and also learning about other stacks**
+- 🌱 I’m currently Polishing my **Web-Development Skills to the next level and also learning about other stacks**
 
-- 💬 Ask me about ** Languages: C++, GoLang, JavaScript, Python, PHP. Stacks: MERN, Next.js, Laravel,  and vue.js. Database:  Mysql, Mongodb**
+- 💬 Ask me about ** <strong>Languages</strong> : C++, GoLang, JavaScript, Python, PHP. <strong>Stacks</strong>: MERN, Next.js, Laravel,  and vue.js. <strong>Database</strong>:  Mysql, Mongodb**
 
 - 📫 How to reach me **sameer.shahid3333@gmail.com**
 
