@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameershahid1&show_icons=true&locale=en" alt="sameershahid1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameershahid1&" alt="sameershahid1" /></p>
+
+<a href="https://app.daily.dev/sameershahid6"><img src="https://api.daily.dev/devcards/v2/a0zNQUmDc6p3IaBIwfb1e.png?r=f2n&type=default" width="356" alt="Sameer Shahid's Dev Card"/></a>
