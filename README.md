@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Shahid</h1>
-<h3 align="center">I am a Full stack Developer from Pakistan. Currently, I am doing BSCS at the University of Central Punjab.</h3>
+<h3 align="center">I am a Full stack Developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameershahid1&label=Profile%20views&color=0e75b6&style=flat" alt="sameershahid1" /> </p>
 
@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently Polishing my **Web-Development Skills to the next level and also learning about other stacks**
 
-- 💬 Ask me about: <ul><li> <strong>Languages</strong>:C++, GoLang, JavaScript, Python, PHP.</li><li><strong>Stacks</strong>: MERN, Next.js, Laravel, and vue.js.</li><li><strong>Database</strong>: Mysql, MongoDB.</li> <ul>
-- 📫 How to reach me **sameer.shahid3333@gmail.com**
+- 💬 Ask me about: <ul><li> <strong>Languages</strong>:C++, GoLang, JavaScript, Python, PHP.</li><li><strong>Stacks</strong>: MERN, Next.js, Gin and, Laravel.</li><li><strong>Database</strong>: Mysql, MongoDB.</li> <ul>
+- 📫 How to reach me **sameer.shahid1@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
