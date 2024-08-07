@@ -8,7 +8,7 @@
 - 🌱 I’m currently Polishing my **Web-Development Skills to the next level and also learning about other stacks**
 
 - 💬 Ask me about: <ul><li> <strong>Languages</strong>:C++, GoLang, JavaScript, Python, PHP.</li><li><strong>Stacks</strong>: MERN, Next.js, Gin and, Laravel.</li><li><strong>Database</strong>: Mysql, MongoDB.</li> <ul>
-- 📫 How to reach me **sameer.shahid1@hotmail.com**
+- 📫 How to reach me **sameer.shxhid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
