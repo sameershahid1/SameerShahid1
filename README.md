@@ -102,4 +102,6 @@
 
 <img src="https://raw.githubusercontent.com/sameershahid1/sameershahid1/output/snake.svg" alt="Snake animation" />
 
-###
+<a href="https://app.daily.dev/sameershahid6"><img src="https://api.daily.dev/devcards/v2/a0zNQUmDc6p3IaBIwfb1e.png?r=f2n&type=default" width="356" alt="Sameer Shahid's Dev Card"/></a>
+
+
