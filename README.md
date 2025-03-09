@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning peer-to-peer networks.<br>💬 Ask me about: JavaScript, Typescript Golang, and Python.<br>🎯 Goals: Creating a project related to the backend. <br>🎲 Fun fact: I like to play video games,  and read programming books, and articles.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning peer-to-peer networks, prompt engineering, and LLM-Apps.<br>💬 Ask me about: JavaScript, Typescript Golang, and Python.<br>🎯 Goals: Creating a project related to the backend. <br>🎲 Fun fact: I like to play video games,  and read programming books, and articles.</p>
 
 ###
 
